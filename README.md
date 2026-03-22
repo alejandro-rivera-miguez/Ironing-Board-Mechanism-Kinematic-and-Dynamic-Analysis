@@ -13,7 +13,7 @@ Developed for the **Mechanisms (Mecanismos)** course during the 3rd year of the 
 ## 🎥 Mechanism Animation
 
 *(Insert the animation of the ironing board folding/unfolding here)*
-![Ironing Board Motion](media/Ironing_board_GIF.gif)
+![Ironing Board Motion](media/ironing_board.gif)
 
 ---
 
